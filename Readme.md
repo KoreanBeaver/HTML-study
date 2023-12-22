@@ -1,6 +1,6 @@
 # HTML-study
 Personal record of HTML study from Zero 
-Day1 - Study from https://opentutorials.org/course/1 #생활코딩 Web1 HTML&Internet (Intro to Web Dev)
+Day 1~3 - Study from https://opentutorials.org/course/1 #생활코딩 Web1 HTML&Internet (Intro to Web Dev)
 https://opentutorials.org/course/3084/18438 - Web 1-1 프로젝트의 동기 / Motivation of Projects
 https://opentutorials.org/course/3084/18437 - Web 1-2 기획 / Planning
 https://opentutorials.org/course/3084/18445 - Web 1-3 코딩과 HTML / Coding and HTML
@@ -13,3 +13,6 @@ https://opentutorials.org/course/3084/18488 - Web 1-9 HTML이 중요한 이유 /
 https://opentutorials.org/course/3084/18407 - Web 1-10 최후의 문법 속성과 img / Final grammar attributes and img [https://unsplash.com/]
 https://opentutorials.org/course/3084/18408 - Web 1-11 부모 자식과 목록 / Parents, child tags and list
 https://opentutorials.org/course/3084/18409 - Web 1-12 문서의 구조와 슈퍼스타들 / Structure of documents and Superstars
+https://opentutorials.org/course/3084/18418 - Web 1-13 HTML 태그의 제왕 / King of HTML tags [<a></a>]
+https://opentutorials.org/course/3084/18431 - Web 1-14 웹사이트의 완성 / Complete Website
+https://opentutorials.org/course/3084/18889 - Web 1-15 원시웹 / Primitive Web [History of internet and web]
