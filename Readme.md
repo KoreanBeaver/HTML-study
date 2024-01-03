@@ -16,3 +16,4 @@ https://opentutorials.org/course/3084/18409 - Web 1-12 문서의 구조와 슈�
 https://opentutorials.org/course/3084/18418 - Web 1-13 HTML 태그의 제왕 / King of HTML tags [<a></a>]<br>
 https://opentutorials.org/course/3084/18431 - Web 1-14 웹사이트의 완성 / Complete Website<br>
 https://opentutorials.org/course/3084/18889 - Web 1-15 원시웹 / Primitive Web [History of internet and web]<br>
+https://opentutorials.org/course/3084/18890 - Web 1-16 인터넷을 여는 열쇠 : 서버와 클라이언트 / Key for internet : Server and Client <br>
