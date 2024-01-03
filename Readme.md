@@ -1,9 +1,9 @@
 # HTML-study <br>
 Personal record of HTML study from Zero <br>
 Day 1~3 - Study from https://opentutorials.org/course/1 #생활코딩 Web1 HTML&Internet (Intro to Web Dev) <br>
-https://opentutorials.org/course/3084/18438 - Web 1-1 프로젝트의 동기 / Motivation of Projects
-https://opentutorials.org/course/3084/18437 - Web 1-2 기획 / Planning
-https://opentutorials.org/course/3084/18445 - Web 1-3 코딩과 HTML / Coding and HTML
+https://opentutorials.org/course/3084/18438 - Web 1-1 프로젝트의 동기 / Motivation of Projects <br>
+https://opentutorials.org/course/3084/18437 - Web 1-2 기획 / Planning <br>
+https://opentutorials.org/course/3084/18445 - Web 1-3 코딩과 HTML / Coding and HTML <br>
 https://opentutorials.org/course/3084/18448 - Web 1-4 HTML 코딩 실습환경 준비 / Preparing HTML coding environment
 https://opentutorials.org/course/3084/18392 - Web 1-5 기본문법 태그 / Basic Tags and Grammar
 https://opentutorials.org/course/3084/18400 - Web 1-6 혁명적인 변화 / Revolutionary change 
