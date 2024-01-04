@@ -1,5 +1,7 @@
 # HTML-study <br>
-Personal record of HTML study from Zero
+<p>
+  <h2>Personal record of HTML study from Zero</h2>
+</p>
 
 <p>
   WEB 1 - https://opentutorials.org/course/1 #생활코딩 Web1 HTML&Internet (Intro to Web Dev)
