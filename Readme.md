@@ -37,5 +37,5 @@
   WEB 2 - https://opentutorials.org/course/3086 #생활코딩 Web2 CSS 
 </p>
 <p>
-  
+  https://opentutorials.org/course/3086/18311 - Web 2-1 CSS 등장 이전의 상황 / Situation before CSS exist <br>
 </p>
