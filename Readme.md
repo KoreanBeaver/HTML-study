@@ -18,3 +18,11 @@ https://opentutorials.org/course/3084/18431 - Web 1-14 웹사이트의 완성 / 
 https://opentutorials.org/course/3084/18889 - Web 1-15 원시웹 / Primitive Web [History of internet and web]<br>
 https://opentutorials.org/course/3084/18890 - Web 1-16 인터넷을 여는 열쇠 : 서버와 클라이언트 / Key for internet : Server and Client <br>
 https://opentutorials.org/course/3084/18891 - Web 1-17 웹호스팅 github pages <br>
+https://opentutorials.org/course/3084/31144 - Web 1-18 웹서버 운영하기 / Running Web Server <br>
+https://opentutorials.org/course/3084/18896 - Web 1-19 수업을 마치며 1 / Ending the lesson 1 <br>
+https://opentutorials.org/course/3084/18897 - Web 1-20 수업을 마치며 2 / Ending the lesson 2 <br>
+https://opentutorials.org/course/3084/18898 - Web 1-21 수업을 마치며 3 / Ending the lesson 3 <br>
+https://opentutorials.org/course/3084/18598 - Web 1-부록 코드의 힘 / Power of Code <br>
+https://opentutorials.org/course/3084/18453 - Web 1-부록 코드의 힘 동영상 삽입 / Inserting Video <br>
+https://opentutorials.org/course/3084/18594 - Web 1-부록 코드의 힘 댓글 기능 추가 / Add Comment function <br>
+
