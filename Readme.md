@@ -38,4 +38,9 @@
 </p>
 <p>
   https://opentutorials.org/course/3086/18311 - Web 2-1 CSS 등장 이전의 상황 / Situation before CSS exist <br>
+  https://opentutorials.org/course/3086/18312 - Web 2-2 CSS의 등장 / Raise of CSS <br>
+  https://opentutorials.org/course/3086/18318 - Web 2-3 혁명적 변화 / Revolutionary change
+  https://opentutorials.org/course/3086/18328 - Web 2-4 CSS 속성을 스스로 알아내는 방법 / Finding CSS properties <br>
+  https://opentutorials.org/course/3086/18329 - Web 2-5 CSS 선택자의 기본 / Basic of Selector <br>
+  https://opentutorials.org/course/3086/18319 - Web 2-6 박스모델 / CSS Box model <br>
 </p>
