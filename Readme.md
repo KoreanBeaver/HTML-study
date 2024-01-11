@@ -43,4 +43,11 @@
   https://opentutorials.org/course/3086/18328 - Web 2-4 CSS 속성을 스스로 알아내는 방법 / Finding CSS properties <br>
   https://opentutorials.org/course/3086/18329 - Web 2-5 CSS 선택자의 기본 / Basic of Selector <br>
   https://opentutorials.org/course/3086/18319 - Web 2-6 박스모델 / CSS Box model <br>
+  https://opentutorials.org/course/3086/18319 - Web 2-7 박스 모델 써먹기 / Use of box model <br>
+  https://opentutorials.org/course/3086/18322 - Web 2-8 그리드 소개 / Introducing GRID <br>
+  https://opentutorials.org/course/3086/18322 - Web 2-9 그리드 써먹기 / Use of Grid <br>
+  https://opentutorials.org/course/3086/18323 - Web 2-10 미디어 쿼리 소개 / Introduction to media query <br>
+  https://opentutorials.org/course/3086/18323 - Web 2-11 미디어 쿼리 써먹기 / Use of media query <br>
+  https://opentutorials.org/course/3086/18327 - Web 2-12 CSS 코드의 재사용 / Reuse of CSS codes <br>
+  https://opentutorials.org/course/3086/18333 - Web 2-13 수업을 마치며 / Ending the lesson <br>
 </p>
