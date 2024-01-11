@@ -4,7 +4,7 @@
 </p>
 
 <p>
-  WEB 1 - https://opentutorials.org/course/1 #생활코딩 Web1 HTML&Internet (Intro to Web Dev)
+  <h2>WEB 1 - https://opentutorials.org/course/1 #생활코딩 Web1 HTML&Internet (Intro to Web Dev)</h2>
 </p>
 <p>
   https://opentutorials.org/course/3084/18438 - Web 1-1 프로젝트의 동기 / Motivation of Projects <br>
@@ -34,7 +34,7 @@
   https://opentutorials.org/course/3084/18597 - Web 1-부록 코드의 힘 채팅 기능 추가 / Add Chat function <br>
 </p>
 <p>
-  WEB 2 - https://opentutorials.org/course/3086 #생활코딩 Web2 CSS 
+  <h2>WEB 2 - https://opentutorials.org/course/3086 #생활코딩 Web2 CSS</h2> 
 </p>
 <p>
   https://opentutorials.org/course/3086/18311 - Web 2-1 CSS 등장 이전의 상황 / Situation before CSS exist <br>
