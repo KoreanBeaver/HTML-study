@@ -1,4 +1,4 @@
-# HTML-study <br>
+# <h1>HTML-study<h1> <br>
 <p>
   <h2>Personal record of HTML study from Zero</h2>
 </p>
