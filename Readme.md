@@ -51,3 +51,11 @@
   https://opentutorials.org/course/3086/18327 - Web 2-12 CSS 코드의 재사용 / Reuse of CSS codes <br>
   https://opentutorials.org/course/3086/18333 - Web 2-13 수업을 마치며 / Ending the lesson <br>
 </p>
+<p>
+  <h2> WEB Javascript - https://opentutorials.org/course/3085 #생활코딩 Web2 JavaScript</h2>
+</p>
+<p>
+  https://opentutorials.org/course/3085 - Web JavaScript 1 Cover <br>
+  https://opentutorials.org/course/3085/18868 - Web Javescript 2 수업의 목적 / Purpose of the lesson <br>
+  
+</p>
