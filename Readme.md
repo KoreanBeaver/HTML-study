@@ -56,6 +56,8 @@
 </p>
 <p>
   https://opentutorials.org/course/3085 - Web JavaScript 1 Cover <br>
-  https://opentutorials.org/course/3085/18868 - Web Javescript 2 수업의 목적 / Purpose of the lesson <br>
+  https://opentutorials.org/course/3085/18868 - Web JaveScript 2 수업의 목적 / Purpose of the lesson <br>
+  https://opentutorials.org/course/3085/18778 - Web JavaScript 3 HTML과 JavaScript의 만남 1 (script 태그) / meet of HTML and JavaScript (script tag) <br>
+  https://opentutorials.org/course/3085/18782 - Web JavaScript 4 HTML과 JavaScript의 만남 2 (이벤트) / meet of HTML and JavaScript 2 (Event) <br>
   
 </p>
