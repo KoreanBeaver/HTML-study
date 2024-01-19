@@ -61,7 +61,9 @@
   https://opentutorials.org/course/3085/18782 - Web JavaScript 4 HTML과 JavaScript의 만남 2 (이벤트) / meet of HTML and JavaScript 2 (Event) <br>
   https://opentutorials.org/course/3085/18869 - Web JaveScript 5 HTML과 JavaScript의 만남 3 (콘솔) / meet of HTML and JavaScript 3 (Console) <br>
   https://opentutorials.org/course/3085/18870 - Web JavaScript 6 테이터타입 - 문자열과 숫자 / Data type - String and Number <br>
-  
+  https://opentutorials.org/course/3085/18871 - Web JavaScript 7 변수와 대입 연산자 / Variable and assignment operator <br>
+  https://opentutorials.org/course/3085/18872 - Web JavaScript 8 웹브라우저 제어 / Control web browser <br>
+  https://opentutorials.org/course/3085/18789 - Web JavaScript 9 Style 속성을 이용해서 CSS 사용하기 / use CSS with "style" attribute <br>
   
   
 </p>
