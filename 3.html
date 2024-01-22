@@ -8,6 +8,15 @@
 
 <body> <!--웹페이지의 본문-->
     <h1><a href="index.html">WEB</a></h1>
+    <input type="button" value="night" onclick="
+    document.querySelector('body').style.backgroundColor = 'black'
+    document.querySelector('body').style.color = 'white'
+    ">
+    <input type="button" value="day" onclick="
+    document.querySelector('body').style.backgroundColor = 'white'
+    document.querySelector('body').style.color = 'black'
+    ">
+   
     <div id="grid">
         <ol> <!--ordered list 리스트의 순서를 자동으로 부여해주는 태그-->
             <li><a href="1.html"> HTML</a></li>
