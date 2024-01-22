@@ -63,7 +63,10 @@
   https://opentutorials.org/course/3085/18870 - Web JavaScript 6 테이터타입 - 문자열과 숫자 / Data type - String and Number <br>
   https://opentutorials.org/course/3085/18871 - Web JavaScript 7 변수와 대입 연산자 / Variable and assignment operator <br>
   https://opentutorials.org/course/3085/18872 - Web JavaScript 8 웹브라우저 제어 / Control web browser <br>
-  https://opentutorials.org/course/3085/18789 - Web JavaScript 9 Style 속성을 이용해서 CSS 사용하기 / use CSS with "style" attribute <br>
-  
+  https://opentutorials.org/course/3085/18789 - Web JavaScript 9~11 Style 속성을 이용해서 CSS 사용하기 / use CSS with "style" attribute <br>
+  https://opentutorials.org/course/3085/18792 - Web JavaScrpt 12 제어할 태그 선택하기 / Choose tag to be controlled <br>
+  https://opentutorials.org/course/3085/18876 - Web JavaScript 13 프로그램, 프로그래밍, 프로그래머 / Program, Programming, Programmer <br>
+  https://opentutorials.org/course/3085/18879 - Web JavaScript 14 조건문 예고 / Intro to comparison operator <br>
+  https://opentutorials.org/course/3085/18798 - Web JavaScript 15 비교 연산자와 블라인 / Comparison operator and Boolean <br>
   
 </p>
