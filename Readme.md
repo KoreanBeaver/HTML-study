@@ -66,7 +66,12 @@
   https://opentutorials.org/course/3085/18789 - Web JavaScript 9~11 Style 속성을 이용해서 CSS 사용하기 / use CSS with "style" attribute <br>
   https://opentutorials.org/course/3085/18792 - Web JavaScrpt 12 제어할 태그 선택하기 / Choose tag to be controlled <br>
   https://opentutorials.org/course/3085/18876 - Web JavaScript 13 프로그램, 프로그래밍, 프로그래머 / Program, Programming, Programmer <br>
-  https://opentutorials.org/course/3085/18879 - Web JavaScript 14 조건문 예고 / Intro to comparison operator <br>
+  https://opentutorials.org/course/3085/18879 - Web JavaScript 14 조건문 예고 / Intro to conditional statement <br>
   https://opentutorials.org/course/3085/18798 - Web JavaScript 15 비교 연산자와 블라인 / Comparison operator and Boolean <br>
+  https://opentutorials.org/course/3085/18800 - Web JavaScript 16 조건문 / Conditional statement <br>
+  https://opentutorials.org/course/3085/18878 - Web JavaScript 17 조건문의 활용 / Use of conditional statement <br>
+  https://opentutorials.org/course/3085/18801 - Web JavaScript 18 리팩토링 / Refactoring <br>
+  https://opentutorials.org/course/3085/18881 - Web JavaScript 19 반복문 예고 / Introduction to Loop Statement <br>
+  
   
 </p>
