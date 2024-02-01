@@ -72,6 +72,9 @@
   https://opentutorials.org/course/3085/18878 - Web JavaScript 17 조건문의 활용 / Use of conditional statement <br>
   https://opentutorials.org/course/3085/18801 - Web JavaScript 18 리팩토링 / Refactoring <br>
   https://opentutorials.org/course/3085/18881 - Web JavaScript 19 반복문 예고 / Introduction to Loop Statement <br>
-  
+  https://opentutorials.org/course/3085/18825 - Web JavaScript 20 배열 / Array <br>
+  https://opentutorials.org/course/3085/18827 - Web JavaScript 21 반복문 / Loop <br>
+  https://opentutorials.org/course/3085/18828 - Web JavaScript 22 배열과 반복문 / Array and Loop <br>
+  https://opentutorials.org/course/3085/18850 - Web JavaScript 23 배열과 반복문의 활용 / Use of array and loop <br>
   
 </p>
