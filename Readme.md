@@ -59,6 +59,7 @@
   <h2> WEB Javascript - https://opentutorials.org/course/3085 #생활코딩 Web2 JavaScript</h2>
 </p>
 <p>
+  <ul>
    <li>https://opentutorials.org/course/3085 - Web JavaScript 1 Cover </li>
    <li>https://opentutorials.org/course/3085/18868 - Web JaveScript 2 수업의 목적 / Purpose of the lesson </li>
    <li>https://opentutorials.org/course/3085/18778 - Web JavaScript 3 HTML과 JavaScript의 만남 1 (script 태그) / meet of HTML and JavaScript (script tag) </li>
@@ -81,5 +82,7 @@
    <li>https://opentutorials.org/course/3085/18828 - Web JavaScript 22 배열과 반복문 / Array and Loop </li>
    <li>https://opentutorials.org/course/3085/18850 - Web JavaScript 23 배열과 반복문의 활용 / Use of array and loop </li>
    <li>https://opentutorials.org/course/3085/18882 - Web JavaScript 24 함수 예고 / Introduction to Function </li>
+   <li>https://opentutorials.org/course/3085/18851 - Web JavaScript 25 함수 / Function </li>
+   </ul>
   
 </p>
