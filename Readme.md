@@ -39,45 +39,47 @@
   <h2>WEB 2 - https://opentutorials.org/course/3086 #생활코딩 Web2 CSS</h2> 
 </p>
 <p>
-  https://opentutorials.org/course/3086/18311 - Web 2-1 CSS 등장 이전의 상황 / Situation before CSS exist 
-  https://opentutorials.org/course/3086/18312 - Web 2-2 CSS의 등장 / Raise of CSS 
-  https://opentutorials.org/course/3086/18318 - Web 2-3 혁명적 변화 / Revolutionary change
-  https://opentutorials.org/course/3086/18328 - Web 2-4 CSS 속성을 스스로 알아내는 방법 / Finding CSS properties 
-  https://opentutorials.org/course/3086/18329 - Web 2-5 CSS 선택자의 기본 / Basic of Selector 
-  https://opentutorials.org/course/3086/18319 - Web 2-6 박스모델 / CSS Box model 
-  https://opentutorials.org/course/3086/18319 - Web 2-7 박스 모델 써먹기 / Use of box model 
-  https://opentutorials.org/course/3086/18322 - Web 2-8 그리드 소개 / Introducing GRID 
-  https://opentutorials.org/course/3086/18322 - Web 2-9 그리드 써먹기 / Use of Grid 
-  https://opentutorials.org/course/3086/18323 - Web 2-10 미디어 쿼리 소개 / Introduction to media query 
-  https://opentutorials.org/course/3086/18323 - Web 2-11 미디어 쿼리 써먹기 / Use of media query 
-  https://opentutorials.org/course/3086/18327 - Web 2-12 CSS 코드의 재사용 / Reuse of CSS codes 
-  https://opentutorials.org/course/3086/18333 - Web 2-13 수업을 마치며 / Ending the lesson 
+  <ul>
+  <li>https://opentutorials.org/course/3086/18311 - Web 2-1 CSS 등장 이전의 상황 / Situation before CSS exist </li>
+  <li>https://opentutorials.org/course/3086/18312 - Web 2-2 CSS의 등장 / Raise of CSS </li>
+  <li>https://opentutorials.org/course/3086/18318 - Web 2-3 혁명적 변화 / Revolutionary change</li>
+  <li>https://opentutorials.org/course/3086/18328 - Web 2-4 CSS 속성을 스스로 알아내는 방법 / Finding CSS properties </li>
+  <li>https://opentutorials.org/course/3086/18329 - Web 2-5 CSS 선택자의 기본 / Basic of Selector </li>
+  <li>https://opentutorials.org/course/3086/18319 - Web 2-6 박스모델 / CSS Box model </li>
+  <li>https://opentutorials.org/course/3086/18319 - Web 2-7 박스 모델 써먹기 / Use of box model </li>
+  <li>https://opentutorials.org/course/3086/18322 - Web 2-8 그리드 소개 / Introducing GRID </li>
+  <li>https://opentutorials.org/course/3086/18322 - Web 2-9 그리드 써먹기 / Use of Grid </li>
+  <li>https://opentutorials.org/course/3086/18323 - Web 2-10 미디어 쿼리 소개 / Introduction to media query </li>
+  <li>https://opentutorials.org/course/3086/18323 - Web 2-11 미디어 쿼리 써먹기 / Use of media query </li>
+  <li>https://opentutorials.org/course/3086/18327 - Web 2-12 CSS 코드의 재사용 / Reuse of CSS codes </li>
+  <li>https://opentutorials.org/course/3086/18333 - Web 2-13 수업을 마치며 / Ending the lesson </li>
+  </ul>
 </p>
 <p>
   <h2> WEB Javascript - https://opentutorials.org/course/3085 #생활코딩 Web2 JavaScript</h2>
 </p>
 <p>
-  https://opentutorials.org/course/3085 - Web JavaScript 1 Cover 
-  https://opentutorials.org/course/3085/18868 - Web JaveScript 2 수업의 목적 / Purpose of the lesson 
-  https://opentutorials.org/course/3085/18778 - Web JavaScript 3 HTML과 JavaScript의 만남 1 (script 태그) / meet of HTML and JavaScript (script tag) 
-  https://opentutorials.org/course/3085/18782 - Web JavaScript 4 HTML과 JavaScript의 만남 2 (이벤트) / meet of HTML and JavaScript 2 (Event) 
-  https://opentutorials.org/course/3085/18869 - Web JaveScript 5 HTML과 JavaScript의 만남 3 (콘솔) / meet of HTML and JavaScript 3 (Console) 
-  https://opentutorials.org/course/3085/18870 - Web JavaScript 6 테이터타입 - 문자열과 숫자 / Data type - String and Number 
-  https://opentutorials.org/course/3085/18871 - Web JavaScript 7 변수와 대입 연산자 / Variable and assignment operator 
-  https://opentutorials.org/course/3085/18872 - Web JavaScript 8 웹브라우저 제어 / Control web browser 
-  https://opentutorials.org/course/3085/18789 - Web JavaScript 9~11 Style 속성을 이용해서 CSS 사용하기 / use CSS with "style" attribute 
-  https://opentutorials.org/course/3085/18792 - Web JavaScrpt 12 제어할 태그 선택하기 / Choose tag to be controlled 
-  https://opentutorials.org/course/3085/18876 - Web JavaScript 13 프로그램, 프로그래밍, 프로그래머 / Program, Programming, Programmer 
-  https://opentutorials.org/course/3085/18879 - Web JavaScript 14 조건문 예고 / Intro to conditional statement 
-  https://opentutorials.org/course/3085/18798 - Web JavaScript 15 비교 연산자와 블라인 / Comparison operator and Boolean 
-  https://opentutorials.org/course/3085/18800 - Web JavaScript 16 조건문 / Conditional statement 
-  https://opentutorials.org/course/3085/18878 - Web JavaScript 17 조건문의 활용 / Use of conditional statement 
-  https://opentutorials.org/course/3085/18801 - Web JavaScript 18 리팩토링 / Refactoring 
-  https://opentutorials.org/course/3085/18881 - Web JavaScript 19 반복문 예고 / Introduction to Loop Statement 
-  https://opentutorials.org/course/3085/18825 - Web JavaScript 20 배열 / Array 
-  https://opentutorials.org/course/3085/18827 - Web JavaScript 21 반복문 / Loop 
-  https://opentutorials.org/course/3085/18828 - Web JavaScript 22 배열과 반복문 / Array and Loop 
-  https://opentutorials.org/course/3085/18850 - Web JavaScript 23 배열과 반복문의 활용 / Use of array and loop 
-  https://opentutorials.org/course/3085/18882 - Web JavaScript 24 함수 예고 / Introduction to Function 
+  https://opentutorials.org/course/3085 - Web JavaScript 1 Cover </li>
+  https://opentutorials.org/course/3085/18868 - Web JaveScript 2 수업의 목적 / Purpose of the lesson </li>
+  https://opentutorials.org/course/3085/18778 - Web JavaScript 3 HTML과 JavaScript의 만남 1 (script 태그) / meet of HTML and JavaScript (script tag) </li>
+  https://opentutorials.org/course/3085/18782 - Web JavaScript 4 HTML과 JavaScript의 만남 2 (이벤트) / meet of HTML and JavaScript 2 (Event) </li>
+  https://opentutorials.org/course/3085/18869 - Web JaveScript 5 HTML과 JavaScript의 만남 3 (콘솔) / meet of HTML and JavaScript 3 (Console) </li>
+   <li>https://opentutorials.org/course/3085/18870 - Web JavaScript 6 테이터타입 - 문자열과 숫자 / Data type - String and Number </li>
+   <li>https://opentutorials.org/course/3085/18871 - Web JavaScript 7 변수와 대입 연산자 / Variable and assignment operator </li>
+   <li>https://opentutorials.org/course/3085/18872 - Web JavaScript 8 웹브라우저 제어 / Control web browser </li>
+   <li>https://opentutorials.org/course/3085/18789 - Web JavaScript 9~11 Style 속성을 이용해서 CSS 사용하기 / use CSS with "style" attribute </li>
+   <li>https://opentutorials.org/course/3085/18792 - Web JavaScrpt 12 제어할 태그 선택하기 / Choose tag to be controlled </li>
+   <li>https://opentutorials.org/course/3085/18876 - Web JavaScript 13 프로그램, 프로그래밍, 프로그래머 / Program, Programming, Programmer </li>
+   <li>https://opentutorials.org/course/3085/18879 - Web JavaScript 14 조건문 예고 / Intro to conditional statement </li>
+   <li>https://opentutorials.org/course/3085/18798 - Web JavaScript 15 비교 연산자와 블라인 / Comparison operator and Boolean </li>
+   <li>https://opentutorials.org/course/3085/18800 - Web JavaScript 16 조건문 / Conditional statement </li>
+   <li>https://opentutorials.org/course/3085/18878 - Web JavaScript 17 조건문의 활용 / Use of conditional statement </li>
+   <li>https://opentutorials.org/course/3085/18801 - Web JavaScript 18 리팩토링 / Refactoring </li>
+   <li>https://opentutorials.org/course/3085/18881 - Web JavaScript 19 반복문 예고 / Introduction to Loop Statement </li>
+   <li>https://opentutorials.org/course/3085/18825 - Web JavaScript 20 배열 / Array </li>
+   <li>https://opentutorials.org/course/3085/18827 - Web JavaScript 21 반복문 / Loop </li>
+   <li>https://opentutorials.org/course/3085/18828 - Web JavaScript 22 배열과 반복문 / Array and Loop </li>
+   <li>https://opentutorials.org/course/3085/18850 - Web JavaScript 23 배열과 반복문의 활용 / Use of array and loop </li>
+   <li>https://opentutorials.org/course/3085/18882 - Web JavaScript 24 함수 예고 / Introduction to Function </li>
   
 </p>
