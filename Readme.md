@@ -7,6 +7,7 @@
   <h2>WEB 1 - https://opentutorials.org/course/1 #생활코딩 Web1 HTML&Internet (Intro to Web Dev)</h2>
 </p>
 <p>
+  <ul>
   https://opentutorials.org/course/3084/18438 - Web 1-1 프로젝트의 동기 / Motivation of Projects <br>
   https://opentutorials.org/course/3084/18437 - Web 1-2 기획 / Planning <br>
   https://opentutorials.org/course/3084/18445 - Web 1-3 코딩과 HTML / Coding and HTML <br>
@@ -32,6 +33,7 @@
   https://opentutorials.org/course/3084/18453 - Web 1-부록 코드의 힘 동영상 삽입 / Inserting Video <br>
   https://opentutorials.org/course/3084/18594 - Web 1-부록 코드의 힘 댓글 기능 추가 / Add Comment function <br>
   https://opentutorials.org/course/3084/18597 - Web 1-부록 코드의 힘 채팅 기능 추가 / Add Chat function <br>
+  </ul>
 </p>
 <p>
   <h2>WEB 2 - https://opentutorials.org/course/3086 #생활코딩 Web2 CSS</h2> 
@@ -76,5 +78,6 @@
   https://opentutorials.org/course/3085/18827 - Web JavaScript 21 반복문 / Loop <br>
   https://opentutorials.org/course/3085/18828 - Web JavaScript 22 배열과 반복문 / Array and Loop <br>
   https://opentutorials.org/course/3085/18850 - Web JavaScript 23 배열과 반복문의 활용 / Use of array and loop <br>
+  https://opentutorials.org/course/3085/18882 - Web JavaScript 24 함수 예고 / Introduction to Function <br>
   
 </p>
