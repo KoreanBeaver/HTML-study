@@ -8,7 +8,7 @@
 </p>
 <p>
   <ul>
-  https://opentutorials.org/course/3084/18438 - Web 1-1 프로젝트의 동기 / Motivation of Projects <br>
+  <li>https://opentutorials.org/course/3084/18438 - Web 1-1 프로젝트의 동기 / Motivation of Projects <br></li>
   https://opentutorials.org/course/3084/18437 - Web 1-2 기획 / Planning <br>
   https://opentutorials.org/course/3084/18445 - Web 1-3 코딩과 HTML / Coding and HTML <br>
   https://opentutorials.org/course/3084/18448 - Web 1-4 HTML 코딩 실습환경 준비 / Preparing HTML coding environment<br>
