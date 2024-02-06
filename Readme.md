@@ -59,9 +59,9 @@
   <h2> WEB Javascript - https://opentutorials.org/course/3085 #생활코딩 Web2 JavaScript</h2>
 </p>
 <p>
-  https://opentutorials.org/course/3085 - Web JavaScript 1 Cover </li>
-  https://opentutorials.org/course/3085/18868 - Web JaveScript 2 수업의 목적 / Purpose of the lesson </li>
-  https://opentutorials.org/course/3085/18778 - Web JavaScript 3 HTML과 JavaScript의 만남 1 (script 태그) / meet of HTML and JavaScript (script tag) </li>
+   <li>https://opentutorials.org/course/3085 - Web JavaScript 1 Cover </li>
+   <li>https://opentutorials.org/course/3085/18868 - Web JaveScript 2 수업의 목적 / Purpose of the lesson </li>
+   <li>https://opentutorials.org/course/3085/18778 - Web JavaScript 3 HTML과 JavaScript의 만남 1 (script 태그) / meet of HTML and JavaScript (script tag) </li>
   https://opentutorials.org/course/3085/18782 - Web JavaScript 4 HTML과 JavaScript의 만남 2 (이벤트) / meet of HTML and JavaScript 2 (Event) </li>
   https://opentutorials.org/course/3085/18869 - Web JaveScript 5 HTML과 JavaScript의 만남 3 (콘솔) / meet of HTML and JavaScript 3 (Console) </li>
    <li>https://opentutorials.org/course/3085/18870 - Web JavaScript 6 테이터타입 - 문자열과 숫자 / Data type - String and Number </li>
