@@ -83,6 +83,9 @@
    <li>https://opentutorials.org/course/3085/18850 - Web JavaScript 23 배열과 반복문의 활용 / Use of array and loop </li>
    <li>https://opentutorials.org/course/3085/18882 - Web JavaScript 24 함수 예고 / Introduction to Function </li>
    <li>https://opentutorials.org/course/3085/18851 - Web JavaScript 25 함수 / Function </li>
+   <li>https://opentutorials.org/course/3085/18851 - Web JavaScript 26 함수: 매개변수와 인자 / Function: parameter and argument</li>
+   <li>https://opentutorials.org/course/3085/18851 - Web JavaScript 27 함수: 리턴 / function: return</li> 
+   <li>https://opentutorials.org/course/3085/18883 - Web JavaScript 28 함수의 활용 / use of function</li> 
    </ul>
   
 </p>
