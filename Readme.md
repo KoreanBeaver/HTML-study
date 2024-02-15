@@ -89,7 +89,8 @@
    <li>https://opentutorials.org/course/3085/18884 - Web JavaScript 29 객체예고 / Introduction to object</li> 
    <li>https://opentutorials.org/course/3085/18853 - Web JavaScript 30 객체 / Object</li> 
    <li>https://opentutorials.org/course/3085/18853 - Web JavaScript 31 객체와 반복문 / object and loop</li> 
-   <li></li> 
+   <li>https://opentutorials.org/course/3085/18853 - Web JaveScript 32 객체 프로퍼티와 메소드 / object properties and methods</li> 
+   <li>https://opentutorials.org/course/3085/18885 - Web JavaScript 33 객체의 활용 / use of objects</li> 
    </ul>
   
 </p>
