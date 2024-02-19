@@ -4,10 +4,14 @@
     <title>WEB1 - HTML</title> <!--브라우저에 표시되는 웹사이트의 이름-->
     <meta charset="utf-8"> <!--언어 유니코드 표현방식 정립-->
     <link rel="stylesheet" href="style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="colors.js"></script>
 </head>
 
 <body> <!--웹페이지의 본문-->
     <h1><a href="index.html">WEB</a></h1>
+    <input ID="night_day" type="button" value="night" onclick="
+   nightDayHandler(this);">
     <div id="grid">
 <ol> <!--ordered list 리스트의 순서를 자동으로 부여해주는 태그-->
     <li><a href="1.html"> HTML</a></li>
