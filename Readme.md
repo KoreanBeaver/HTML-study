@@ -94,6 +94,7 @@
    <li>https://opentutorials.org/course/3085/18856 - Web JavaScript 34 파일로 쪼개서 정리 정돈하기 / include files</li> 
    <li>https://opentutorials.org/course/3085/18886 - Web JavaScript 35 라이브러리와 프래임워크 / library and framwork</li>
    <li>https://opentutorials.org/course/3085/18887 - Web JavaScript 36 UI & API</li>
+   <li>https://opentutorials.org/course/3085/18888 - Web JavaScript 37 수업을 마치며 / ending the class</li>
    </ul>
   
 </p>
